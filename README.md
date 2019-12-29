@@ -26,7 +26,6 @@ For instance, to obtain the number of semigroups of genus 35:
 and the output will be
 
 > n35=66687201
-
 > time taken 2 (without parallelization)
 
 
@@ -42,7 +41,6 @@ For instance, to obtain the number of semigroups of genus 40:
 and the output will be:
 
 > n40=774614284
-
 > time taken 3 (8 workers)
 
 
