@@ -49,3 +49,5 @@ The next values were first computed using this code:
 n71 = 2604033182682582
 
 n72 = 4218309716540814
+
+Conjectures: A) a(n) >= a(n-1)+a(n-2); B) a(n)/(a(n-1)+a(n-2)) approaches 1; C) a(n)/a(n-1) approaches the golden ratio;  D) a(n) >= a(n-1). Conjectures A, B, C, D were presented by M. Bras-Amorós in the seminar Algebraic Geometry, Coding and Computing, in Segovia, Spain, in 2007, and at IMNS 2018 in Granada, Spain, in 2008. Conjectures A, B, C were then published in the Semigroup Forum, 76 (2008), 379-384. Conjectures B and C are proved by Zhai in Semigroup Forum, 86 (2013), 634–662.
