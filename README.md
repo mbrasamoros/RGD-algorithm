@@ -2,7 +2,7 @@
 
 This repository hosts the implementation of an algorithm to compute the number of numerical semigroups of each given genus, as it is presented in the following article:
 
-M. Bras-Amorós, J. Fernández-González: "The right-generators descendant of a numerical semigroup", Mathematics of Computation, American Mathematical Society, 2020.
+M. Bras-Amorós, J. Fernández-González: "The right-generators descendant of a numerical semigroup", Mathematics of Computation, American Mathematical Society, 2020. See https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2020-03502-9/
 
 For a quick survey on the sequence of the number of numerical semigroups of each given genus and the conjectures related to it see the entry http://oeis.org/A007323 in the On-line Encyclopedia of Integer Sequences.
 
